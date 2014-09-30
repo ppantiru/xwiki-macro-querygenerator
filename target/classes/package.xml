@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<package>
+<infos>
+<name>Query Generator and Query Macro</name>
+<description></description>
+<licence></licence>
+<author>XWiki.Admin</author>
+<extensionId>org.xwiki.contrib:application-querygenerator</extensionId>
+<version>1.0</version>
+<backupPack>false</backupPack>
+</infos>
+<files>
+<file language="" defaultAction="0">Macros.QueryGenerator</file>
+<file language="" defaultAction="0">Macros.QueryMacro</file>
+<file language="" defaultAction="0">Macros.QueryGeneratorGroovy</file>
+</files>
+</package>
